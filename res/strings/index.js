@@ -1,0 +1,1 @@
+export const FIREBASE_DB_COLLECTION = 'MAD-2-CHAT'
